@@ -39,3 +39,9 @@ All generated code was reviewed, tested, and simplified by the developer to ensu
 ## Screenshot
 
 ![Todo List App Screenshot](screenshot.png)
+
+## Docker ile Çalıştırma
+
+### Docker Image Oluşturma
+```bash
+docker build -t todo-list-app .
